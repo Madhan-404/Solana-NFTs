@@ -1,0 +1,97 @@
+{
+  "program": {
+    "candyMachine": "4Fa1EAZJgZe4sZVr9i3TwFjbcXStQUX85fkPgKGzY9XR",
+    "candyMachineCreator": "Fy9GWiCsTuYfifUoh8wdutfnuj8sEzwPX3egCidgaRWQ",
+    "collectionMint": "kV72PFCs3io9aWtWtxtpjQrrwjT6ZJNrKc3DNkigGKq"
+  },
+  "items": {
+    "-1": {
+      "name": "Buildoor Crabs Collection",
+      "image_hash": "2a68bc2e3cd7fb5ea2dd24d21a6580f9c0cf611ca524ee264b0840b713bf7a09",
+      "image_link": "https://arweave.net/1jd06HaShGglPRqFP93nkIOENbKW1gp4yk5crLQBvt8?ext=png",
+      "metadata_hash": "871a02e49c321a5fcc843dea925d8d56610318292ef79c5aa7a26b5c5450802c",
+      "metadata_link": "https://arweave.net/0vXUV7HH4dRSlv-4C_magM1rllc6FVegOZCoWAd3gSo",
+      "onChain": true
+    },
+    "0": {
+      "name": "Buildoor crabs #1",
+      "image_hash": "6f16570562658640b3dc6b6dd7e5b94190d2f8bd5c5a0aa0a4d0bba20c7fd612",
+      "image_link": "https://arweave.net/oaIIYyHMNexLAIBrKVt1w4-v95N_tWZ77zm3Wr9IbTo?ext=png",
+      "metadata_hash": "1d4f21bc404069ea4c211f152f287a37cd308f084b4c2e4c3971b3df00fe0c52",
+      "metadata_link": "https://arweave.net/tnYXNzPhtSimy5-Ks5as_sP1NjWbLK-q-heCS5HfQi8",
+      "onChain": true
+    },
+    "1": {
+      "name": "Buildoor crabs #2",
+      "image_hash": "d527d7faf0e0064e2c527909a740aaec670ea505ad07b109e940099d5e5781e2",
+      "image_link": "https://arweave.net/3Bw6jb1gdqUWP6kBM_qEzE3VkmU8GTg6oQL-zxNCXZs?ext=png",
+      "metadata_hash": "b67693d7cea9ff5d6d7f3365e9a77d3e9c152d78330f2884cb0e372e816591b1",
+      "metadata_link": "https://arweave.net/A--WiGrWZ2t8Rnocj7K_I5AhLz9nTWCdUR-ejZtEN_E",
+      "onChain": true
+    },
+    "2": {
+      "name": "Buildoor crabs #3",
+      "image_hash": "82763aecbf910695ef0bf1311152e2b6c2e9578a8d0d85f3ada320abb9b3551b",
+      "image_link": "https://arweave.net/2Mqtls2A6SC9KUAnxo79lte1kpCdUfk3w4Zb3GTegWg?ext=png",
+      "metadata_hash": "0564ef58c7331081a213b4e85aa4b756fcd590dc2edac38e8a2e5716cde690ad",
+      "metadata_link": "https://arweave.net/v7KGbQmwdxP5z_3Hxhtw4xEJtHGyATSIxP1ocWlwlF0",
+      "onChain": true
+    },
+    "3": {
+      "name": "Buildoor crabs #4",
+      "image_hash": "05d9bed9f734103efc131a0ad0a88b0dbbf46afdd8f7a6b179e8ea7e1b37f046",
+      "image_link": "https://arweave.net/exQfSl3_zMG3Jy0NiThKur4Vs2_EF3XV5sH4xcAwY8s?ext=png",
+      "metadata_hash": "399f30f820ea88f0f69c7deac61dda333f4008bf44948b2bc4d5678d1f81d9c2",
+      "metadata_link": "https://arweave.net/tvmqy4W2Y5DhZ8yP86kx3uWHos802-CJEUnpiN0xRqc",
+      "onChain": true
+    },
+    "4": {
+      "name": "Buildoor crabs #5",
+      "image_hash": "92906e1988a4c58125799c3636a567ec47fca77e15ef6a326be07bc4d8a0522c",
+      "image_link": "https://arweave.net/zeIH7bVbHHpybsxJyUnvp7es-ZKGBdVkBD_m6AtDfOY?ext=png",
+      "metadata_hash": "7b276f6f72ab964fdf4b9440640bbf0a140eb79c0840af2d671e05e9af0704bd",
+      "metadata_link": "https://arweave.net/l-pAx9U-BvkCF2D9Sora4AySWaQT-fSCbGQdnrCx3JM",
+      "onChain": true
+    },
+    "5": {
+      "name": "Buildoor crabs #6",
+      "image_hash": "ecf8012c1bedc8d481d20540d47813318c02edfef1080b712155896147b056d9",
+      "image_link": "https://arweave.net/fYA4q8GB_ikEmT7WVbHztt1ScZv9Yr27r6qU7JwRn1A?ext=png",
+      "metadata_hash": "02b0ac333096a3b93be2ccc7f467d315838a088ac7fdd9909003dca012e8f8aa",
+      "metadata_link": "https://arweave.net/nP5AsnAv5Sbda6PAOJ5kxdI_JEvHSlNvXM7PiyiNuwM",
+      "onChain": true
+    },
+    "6": {
+      "name": "Buildoor crabs #7",
+      "image_hash": "ffe705980fde6a9fbc6cb29b3505d467499c4e78af08f486bf2cd6f7b3f27151",
+      "image_link": "https://arweave.net/1vuTNRZbjcTLQL41Y_idJKxb8ds9awFS5lSQZtRZY-U?ext=png",
+      "metadata_hash": "12fcdc4e76de55bc5b8832325835abd3867ca2cff3b13815de25ee1f73ede1a8",
+      "metadata_link": "https://arweave.net/dn3oMLzJweybLOuknQqNKQN_MxEMOT1frpOpfXTNCrM",
+      "onChain": true
+    },
+    "7": {
+      "name": "Buildoor crabs #8",
+      "image_hash": "babd4f81cf056ce35bae9b1330c9c1b13f440ad2a3632c862e5594994a30a5b7",
+      "image_link": "https://arweave.net/G6Ioa1uajmSQZghtQME_KUPJqlTPPhIF6ZQzEelfMBU?ext=png",
+      "metadata_hash": "c967393de77dd82296e3eec159d43b88e01b892041ea1f370605d48ce1f3b48b",
+      "metadata_link": "https://arweave.net/wPYhVtk7c_v0J97OeqaHzewpxiSvhLQn511EmxiHXxE",
+      "onChain": true
+    },
+    "8": {
+      "name": "Buildoor crabs #9",
+      "image_hash": "c95e11874e94a27b547e5e7457f974a8d299c8c0066f3bf4430aa9c24e03835f",
+      "image_link": "https://arweave.net/6iTX9FrtvYzmad40mcaBCjU7txszLjkY6rHg9LlU8vA?ext=png",
+      "metadata_hash": "cc89fa91fd750ead9e58be22e745bce319acf57c88825542500bc2201b780d3e",
+      "metadata_link": "https://arweave.net/o62pxpfJNvwAeJ8YttiSs34Sz48UXCLs1VcKHEDCkLQ",
+      "onChain": true
+    },
+    "9": {
+      "name": "Buildoor crabs #10",
+      "image_hash": "4c16db39492bc794fbde16cf0aa0abe5f172fa88a45bd2e4afdfea782af241d5",
+      "image_link": "https://arweave.net/CehTIui2hEyhWMx6RLR4ZZYYePJHYP2SOZvPGlQQiGo?ext=png",
+      "metadata_hash": "ba9bf4693ae1065d8a4c98a172b3723af5b1506034eb9f46a8c20677804fc6bd",
+      "metadata_link": "https://arweave.net/wKBIT2xSHb0ZmOBovD6PSaGM1bq9-Bb441Pc8FLIjCs",
+      "onChain": true
+    }
+  }
+}
